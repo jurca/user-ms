@@ -1,0 +1,12 @@
+node_modules/
+.DS_Store
+dist
+.stryker-tmp
+reports
+launch.json
+*.pem
+*.log
+keys.json
+gce.json
+*.env
+*.prod
